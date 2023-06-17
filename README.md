@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
-        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" />
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.ru.html" >
         <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="Web Style Sheets home page" />
