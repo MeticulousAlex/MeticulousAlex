@@ -3,7 +3,26 @@
 <h3 align="center">Automation Engineering / Web-development student from Russia</h3>
 
   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<p>
+    <a href="https://html.spec.whatwg.org/multipage/" >
+        <img src="[https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)" />
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.ru.html" >
+        <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="Web Style Sheets home page" />
+    </a>
+    <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" >
+        <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=4E4E4E" alt="ECMAScript 2022 language specification" />
+    </a>
+    <a href="https://git-scm.com/doc" >
+        <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&labelColor=F05032&color=4E4E4E" alt="Git is a free and open source distributed version control system." />
+    </a>
+    <a href="https://github.com" >
+        <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github home page" />
+    </a>
+    <a href="https://www.figma.com" >
+        <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
+    </a>
+  <a href="">
+    <img src="gimp-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard""
+  </a>
+</p>
