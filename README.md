@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://html.spec.whatwg.org/multipage/" >
-        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" />
     </a>
     <a href="https://www.w3.org/Style/CSS/Overview.ru.html" >
         <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=4E4E4E" alt="Web Style Sheets home page" />
@@ -22,6 +22,6 @@
         <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
     </a>
   <a href="">
-    <img src="gimp-informational?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=4E4E4E" alt="HTML Living Standard""
+    <img src="https://img.shields.io/badge/GIMP-5C5543.svg?style=flat&logo=GIMP&logoColor=white">
   </a>
 </p>
