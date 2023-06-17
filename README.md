@@ -26,7 +26,7 @@
   </a>
 </p>
     
- <p align='center'>:globe_with_meridians: **Контакты** </p>  
+ <p align='center'> 🌐 Contacts 🌐 </p>  
 <p align="center">
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sas_not_gay)
 [![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smelovalex14@gmail.com)
