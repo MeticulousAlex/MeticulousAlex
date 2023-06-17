@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/></h1>
 <h3 align="center">Automation Engineering / Web-development student from Russia</h3>
 
-<p>
+<p align="center">
     <a href="https://html.spec.whatwg.org/multipage/" >
         <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" />
     </a>
