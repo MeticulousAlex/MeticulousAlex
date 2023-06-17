@@ -28,6 +28,10 @@
     
  <p align='center'> 🌐 Contacts 🌐 </p>  
 <p align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sas_not_gay)
-[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smelovalex14@gmail.com)
-    </p>
+    <a href="https://t.me/sas_not_gay">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
+    </a>
+    <a href="mailto:smelovalex14@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+</p>
