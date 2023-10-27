@@ -21,9 +21,6 @@
     <a href="https://www.figma.com" >
         <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
     </a>
-  <a href="https://www.gimp.org/">
-    <img src="https://img.shields.io/badge/GIMP-5C5543.svg?style=flat&logo=GIMP&logoColor=white&labelColor=5C5543&color=4E4E4E">
-  </a>
 </p>
     
  <p align='center'> 🌐 Contacts 🌐 </p>  
