@@ -1,4 +1,4 @@
-<h1 align="center">Hiya, I'm <a href='https://github.com/Sas-not-g'>Alex<a> 
+<h1 align="center">Hello, I'm Alex<a> 
 <img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/></h1>
 <h3 align="center">Automation Engineering / Web-development student from Russia</h3>
 
