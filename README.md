@@ -21,14 +21,17 @@
     <a href="https://www.figma.com" >
         <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&labelColor=F24E1E&color=4E4E4E" alt="Figma home page" />
     </a>
+    <a href="https://react.dev/">
+        <img alt="Static Badge" src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=light-blue&labelColor=gray&color=blue">
+    </a>
 </p>
     
  <p align='center'> 🌐 Contacts 🌐 </p>  
 <p align="center">
-    <a href="https://t.me/sas_not_gay">
+    <a href="https://t.me/meticulousalex">
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
     </a>
-    <a href="mailto:smelovalex14@gmail.com">
+    <a href="mailto:aleksandr.smelov.web@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </p>
