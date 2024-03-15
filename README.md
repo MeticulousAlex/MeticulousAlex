@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Alex<a> 
 <img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/></h1>
-<h3 align="center">Automation Engineering / Web-development student from Russia</h3>
+<h3 align="center">Automation Engineer / Web-developer</h3>
 
 <p align="center">
     <a href="https://html.spec.whatwg.org/multipage/" >
@@ -35,3 +35,5 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </p>
+
+<p>I'm </p>
