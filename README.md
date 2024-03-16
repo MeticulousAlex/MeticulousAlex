@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Alex<a> 
+<h1 align="center">Hello, I'm Alex!
 <img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/></h1>
 <h3 align="center">Automation Engineer / Web-developer</h3>
 
@@ -25,9 +25,16 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=light-blue&labelColor=gray&color=blue">
     </a>
 </p>
-    
- <p align='center'> 🌐 Contacts 🌐 </p>  
-<p align="center">
+
+<h2>Немного обо мне ✨</h2>
+🌲 Учусь в финляндии в SeAMK UAS<br/>
+☕ Фанатею по specialty кофе<br/>
+💻 Делаю таски по программированию за весь поток универа<br/>
+🎸 Я почти рок-звезда, была бы только группа <br/>
+💂 Мечтаю о переезде в Британию<br/>
+
+<h2>Контакты 🌐 </h2>
+<p align="left">
     <a href="https://t.me/meticulousalex">
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
     </a>
@@ -35,4 +42,3 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </p>
-
