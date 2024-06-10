@@ -26,14 +26,14 @@
     </a>
 </p>
 
-<h2>Немного обо мне ✨</h2>
-🌲 Учусь в финляндии в SeAMK UAS<br/>
-☕ Фанатею по specialty кофе<br/>
-💻 Делаю таски по программированию за весь поток универа<br/>
-🎸 Я почти рок-звезда, была бы только группа <br/>
-💂 Мечтаю о переезде в Британию<br/>
+<h2>A bit about me ✨</h2>
+🌲 Student of SeAMK UAS<br/>
+☕ Fond of specialty coffee<br/>
+💻 Do coding tasks for all university group<br/>
+🎸 Almost a rockstar (pitifully without a band) <br/>
+💂 Dream of moving for Britain<br/>
 
-<h2>Контакты 🌐 </h2>
+<h2>Contacts🌐 </h2>
 <p align="left">
     <a href="https://t.me/meticulousalex">
         <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
