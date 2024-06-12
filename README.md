@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm Alex!
-<img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/></h1>
+<img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/>
+<img src="https://media.tenor.com/if3jhnXyiaUAAAAj/apple-cat.gif" height="32"/>
+</h1>
 <h3 align="center">Automation Engineer / Web-developer</h3>
 
 <p align="center">
