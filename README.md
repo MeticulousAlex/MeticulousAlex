@@ -30,9 +30,9 @@
 <h2>A bit about me ✨</h2>
 🌲 Student of SeAMK UAS<br/>
 ☕ Fond of specialty coffee<br/>
-💻 Do coding tasks for all university group<br/>
+💻 Used to do coding tasks for the whole university group<br/>
 🎸 Almost a rockstar (pitifully without a band) <br/>
-💂 Dream of moving for Britain<br/>
+💂 Dreaming of moving for Britain<br/>
 
 <h2>Contacts🌐 </h2>
 <p align="left">
