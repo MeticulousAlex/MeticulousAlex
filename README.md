@@ -39,7 +39,7 @@
 </p>
 
 <h2>A bit about me ✨</h2>
-🎓 Graduate student of SeAMK UAS<br/>
+🎓 Graduate student at SeAMK UAS<br/>
 ☕ Fond of specialty coffee<br/>
 💻 Used to do coding tasks for the whole university group<br/>
 🎸 Almost a rockstar (pitifully without a band)<br/>
