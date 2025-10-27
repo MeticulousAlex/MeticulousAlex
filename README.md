@@ -3,7 +3,7 @@
     Hello, I'm Alex!
     <img src="https://media.tenor.com/0UPw9RZF_cAAAAAi/pop-cat.gif" height="32"/>
 </h1>
-<h2 align="center">Frontend-developer (React/TS)</h2>
+<h2 align="center">Frontend-developer (React/TS/ NextJS)</h2>
 
 <p align="center">
     <a href="https://html.spec.whatwg.org/multipage/" >
